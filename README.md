@@ -1,4 +1,4 @@
-<h1>Hello, I'm Meshack, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hello, I'm Meshack, an IT Professional</h1>
 
 <h2>Information Technology Projects:</h2>
 
